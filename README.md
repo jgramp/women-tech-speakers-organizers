@@ -1155,6 +1155,13 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Berlin, Germany
 - Languages besides English - German, Polish
 
+#### Jessica Gramp
+
+- [@jgramp](https://twitter.com/jgramp)
+- [Personal Website](https://www.jessgramp.net/)
+- Topics - E-Learning Design, Moodle Learning Management System (LMS), Accessibility
+- Location - London, UK
+
 #### Aurélie Guillaume
 
 - [@slig36](https://twitter.com/slig36)
